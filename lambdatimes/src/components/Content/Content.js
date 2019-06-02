@@ -53,9 +53,3 @@ export default class Content extends Component {
 }
 
 
-// handleSubmit = event => {
-//   event.preventDefault();
-//   this.props.searchByPosterId(this.state.searchinput);
-//   this.setState({ searchinput: "" });
-// };
-// onChange={this.changeInputHandler}
